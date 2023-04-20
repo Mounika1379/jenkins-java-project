@@ -13,7 +13,7 @@ pipeline{
     
     post{
         always{
-            echo "I'm always here here  you"
+            echo "I'm always for you"
         }
     }
 }
